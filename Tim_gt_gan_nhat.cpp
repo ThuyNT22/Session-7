@@ -22,8 +22,6 @@ int main(){
 		if(kc<min){
 			min=kc;
 			z=ar[i];
-		}else{
-			min=x;
 		}
 	}
 	printf("Gia tri trong mang so gan gia tri %d nhat la: %d",x,z);

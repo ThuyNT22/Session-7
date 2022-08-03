@@ -22,8 +22,6 @@ int main(){
 		if(kc>max){
 			max=kc;
 			z=ar[i];
-		}else{
-			max=0;
 		}
 	}
 	printf("Gia tri trong mang so xa gia tri %d nhat la: %d",x,z);
